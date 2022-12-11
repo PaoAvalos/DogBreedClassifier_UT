@@ -1,6 +1,8 @@
 # DogBreedClassifier_UT
 
-In order to run our code you need to install Tensorflow and all other libraries that are imported in the beginning of the notebook, also download train images and labels from KAGGLE (https://www.kaggle.com/c/dog-breed-identification).
+The main notebook is colled final_notebook.
+
+In order to run our code(final_notebook) you need to install Tensorflow and all other libraries that are imported in the beginning of the notebook, also download train images and labels from KAGGLE (https://www.kaggle.com/c/dog-breed-identification).
 
 First thing we do after importing all of the libraries is loading data and preparing it for fitting into the model. 
 We used Sequential model with imported layers of pre-trained model MobileResV2. 
